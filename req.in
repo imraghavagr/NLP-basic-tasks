@@ -1,0 +1,11 @@
+numpy
+wincertstore
+entrypoints
+ipykernel
+nltk
+requests
+easynmt
+gensim
+sklearn
+pandas
+SpeechRecognition
