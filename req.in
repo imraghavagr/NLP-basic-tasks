@@ -9,3 +9,5 @@ gensim
 sklearn
 pandas
 SpeechRecognition
+wordcloud
+transformers
